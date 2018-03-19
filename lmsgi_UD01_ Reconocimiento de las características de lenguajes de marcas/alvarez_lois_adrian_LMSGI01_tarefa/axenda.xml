@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Axenda>
+
+<!-- alvarez_lois_adrian_LMSGI01_Tarefa01-->
+
+<axenda>
+	
+	<!-- INICIO CONTACTO_01 -->
+	<contacto>
+
+		<tratamento>Sr.</tratamento>
+		<nome>Antonio</nome>
+		<apelidos>Pérez Gómez</apelidos>
+		
+		<direccion>
+			<tipo_via>Avenida</tipo_via>
+			<dir_rua>Castelao</dir_rua>
+			<dir_num>14</dir_num>
+		</direccion>
+		
+		<telefonos>
+			<tel_casa>98623344</tel_casa>
+			<tel_mobil>62334455</tel_mobil>
+			<tel_oficina>68445566</tel_oficina>
+		</telefonos>
+	
+	</contacto>
+	
+	<!-- INICIO CONTACTO_02 -->
+	<contacto>
+
+		<tratamento>Sra.</tratamento>
+		<nome>Sara</nome>
+		<apelidos>López Fuentes</apelidos>
+	
+		<direccion>
+			<tipo_via>Rúa</tipo_via>
+			<dir_rua>Cantabria</dir_rua>
+			<dir_num>7</dir_num>
+		</direccion>
+	
+		<telefonos>
+			<tel_casa>98623344</tel_casa>
+			<tel_mobil>62334455</tel_mobil>
+			<tel_oficina>68445566</tel_oficina>
+		</telefonos>
+	
+	</contacto>
+
+	<!-- INICIO CONTACTO_03 -->
+	<contacto>
+
+		<tratamento>Sra.</tratamento>
+		<nome>Patricia</nome>
+		<apelidos>Castro Naveiro</apelidos>
+	
+		<direccion>
+			<tipo_via>Camiño</tipo_via>
+			<dir_rua>Cova da Serpe</dir_rua>
+			<dir_num>27</dir_num>
+		</direccion>
+	
+		<telefonos>
+			<tel_casa>98623344</tel_casa>
+			<tel_mobil>62334455</tel_mobil>
+			<tel_oficina>68445566</tel_oficina>
+		</telefonos>
+	
+	</contacto>	
+
+<!-- FINAL CONTACTOS -->
+
+</axenda>

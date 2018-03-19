@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Receitas>
+
+<!-- alvarez_lois_adrian_LMSGI01_Tarefa02 -->
+
+<receitas>
+	<!-- INICIO RECEITA_01 -->
+	<receita nome="Sopa de cebola">
+
+		<!-- INICIO INGREDINTES -->
+		<ingredientes>
+
+				<ingrediente nome="cebolas">
+					<cantidades unidade="Kg">
+						<cantidade comensais="4">1</cantidade>
+					</cantidades>
+				</ingrediente>
+
+				<ingrediente nome="caldo de carne">
+					<cantidades unidade="l">
+						<cantidade comensais="4">2</cantidade>
+					</cantidades>
+				</ingrediente>
+
+				<ingrediente nome="manteiga">
+					<cantidades unidade="gr">
+						<cantidade comensais="4">100</cantidade>
+					</cantidades>
+				</ingrediente>
+
+				<ingrediente nome="fariña">
+					<cantidades unidade="cullerada_sopa">
+						<cantidade comensais="4">1</cantidade>
+					</cantidades>
+				</ingrediente>
+					
+				<ingrediente nome="queixo emmental suizo ou gruyére relado">
+					<cantidades unidade="gr">
+						<cantidade comensais="4">100</cantidade>
+					</cantidades>
+				</ingrediente>
+
+				<ingrediente nome="pan tostado">
+					<cantidades unidade="rebanada">
+						<cantidade comensais="4">4</cantidade>
+					</cantidades>
+				</ingrediente>
+
+				<ingrediente nome="tomillo">
+					<cantidades unidade="cullerada_cafe">
+						<cantidade comensais="4">1</cantidade>
+					</cantidades>
+				</ingrediente>
+
+				<ingrediente nome="loureiro">
+					<cantidades unidade="folla">
+						<cantidade comensais="4">1</cantidade>
+					</cantidades>
+				</ingrediente>
+
+				<ingrediente nome="pementa">
+					<cantidades unidade="cullerada_cafe">
+						<cantidade comensais="4">1</cantidade>
+					</cantidades>
+				</ingrediente>
+
+		</ingredientes>
+		<!-- FINAL INGREDINTES -->
+
+		<!-- INICIO PROCESOS -->
+			<procesos>
+
+				<proceso>
+					Pelar e partir as cebolas en liscos finos.
+				</proceso>
+
+
+				<proceso>
+					Refogalas coa manteiga, sal e pemienta a lento lento até que estean transparentes sen dorarse.
+				</proceso>
+
+
+				<proceso>
+					Engadila fariña sen deixar de remover.
+				</proceso>
+
+
+				<proceso>
+					Poñelo nunha pota co caldo, o tomillo e o loureiro.
+				</proceso>
+
+
+				<proceso>
+					Deixar cocer a lume lento durante uns 15 minutos.
+				</proceso>
+
+
+				<proceso>
+					Poñer as rebanadas de pan enriba, espolvorear o queixo e gratinar ao forno.
+				</proceso>
+
+
+			</procesos>
+		<!-- FINAL PROCESOS -->
+	
+	</receita>
+<!-- FINAL RECEITA_01 -->
+
+</receitas>

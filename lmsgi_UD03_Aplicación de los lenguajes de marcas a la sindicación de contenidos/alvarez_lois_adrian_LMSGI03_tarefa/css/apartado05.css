@@ -1,0 +1,173 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    width: 950px;
+    margin: auto;
+}
+
+header
+{
+    font-family: Lobster;
+
+    width: 100%;
+    height: 100px;
+    padding-top: 40px;
+
+    text-align: center;
+    vertical-align: center;
+
+    color: white;
+    border-radius: 15px;
+    background: linear-gradient(to bottom, rgba(214, 214, 214, 1) 0%, rgba(20, 20, 20, 1)100%);
+}
+
+nav
+{
+    position: relative;
+    top: -10px;
+
+    overflow: hidden;
+
+    padding: 10px;
+
+    border-radius: 0 0 15px 15px;
+    background: linear-gradient(to top, #fff, #ccc);
+}
+
+nav ul
+{
+    margin: 0 10px 0 10px;
+    padding: 0;
+
+    list-style: none;
+}
+
+nav ul li
+{
+    font-family: 'Electrolize', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+
+    float: right;
+
+    margin-right: 10px;
+
+    text-align: center;
+
+    border-radius: 5px;
+    text-shadow: 0 1px 0 #fff;
+}
+
+nav ul li:hover
+{
+    border: 1px solid #e3e3e3;
+    /*Degradado de fondo*/
+    background-image: linear-gradient(to top, #fff, #e3e3e3);
+    /*Sombras*/
+    box-shadow: inner 0 0 2px #888;
+}
+
+nav ul li a
+{
+    display: block;
+
+    padding: 2px;
+
+    text-decoration: none;
+
+    color: #999;
+}
+
+nav ul li a:hover
+{
+    color: Pink;
+}
+
+h2
+{
+    font-family: Oswald;
+
+    text-align: center;
+}
+
+#main
+{
+    width: 950px;
+    margin: auto;
+}
+
+#main_izq
+{
+    position: relative;
+    left: 10px;
+
+    float: left;
+
+    width: 450px;
+
+    border: 0 solid black;
+}
+
+#main_drch
+{
+    position: relative;
+    right: 10px;
+
+    float: right;
+
+    width: 450px;
+
+    border: 0 solid black;
+}
+
+.main_text
+{
+    font-family: arial;
+    font-size: 11px;
+
+    margin-top: .5em;
+    margin-right: 1em;
+    margin-left: 1em;
+
+    color: gray;
+}
+
+#marco
+{
+    margin: 10px;
+    padding: 10px;
+
+    border: 0 solid black;
+    background-color: white;
+
+    align-items: center;
+}
+
+.vertical
+{
+    position: relative;
+    top: 30px;
+
+    float: left;
+
+    width: 200px;
+    height: 400px;
+    padding: 3px;
+
+    border: 0 solid black;
+    background-color: white;
+}
+
+.horizontal
+{
+    width: 200px;
+    height: 195px;
+
+    border: 0 solid black;
+    background-color: white;
+}

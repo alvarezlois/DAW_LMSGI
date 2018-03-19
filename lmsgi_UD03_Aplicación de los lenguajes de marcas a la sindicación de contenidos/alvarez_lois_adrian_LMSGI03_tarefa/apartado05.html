@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Página Personal de Adrián Álvarez</title>
+	<link rel="stylesheet" type="text/css" href="css/apartado05.css">
+	<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Electrolize" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+	<header>
+		<h1><strong>Página Personal de Adrían Álvarez Lois</strong></h1>
+	</header>
+
+	<section>
+		<nav>
+			<ul>
+				<li>
+					<a type="application/atom+xml" href="rss/aal_lmsgi03.atom" target="_blank">
+             	<img src="images/atom-ico.png" alt="Atom" title="Sindicaci&oacute;n ATOM 1.0">
+               </a>
+				</li>
+				<li>
+					<a type="application/rss+xml" href="rss/aal_lmsgi03.rss" target="_blank">
+             	<img src="images/rss-ico.png" alt="RSS" title="Sindicaci&oacute;n RSS 2.0">
+               </a>
+				</li>
+				<li><a href="#">BIO</a></li>
+				<li><a href="#">DESIGN</a></li>
+				<li><a href="#">ARTWORK</a></li>
+			</ul>
+		</nav>
+	</section>
+
+	<br>
+
+	<section id="main">
+	<div id="main_izq">
+		<h2>Maquetar en HTML5</h2>
+		<p class="main_text">Cuando usamos HTML5 es muy importante tener clara nuestra idea de diseño. Para ello nunca viene mal maquetar el diseño de la página utilizando alguna herramienta como Adobe InDesign&reg; aunque yo prefiero usar Adobe Illustrator&reg;.<br>Empiezo creando
+			una cabecera con la etiqueta &lt;header&gt; en donde pongo el título de la página.<br>Seguidamente creo un sencillo menú de navegación con la etiqueta &lt;nav&gt; y un poquito de estilo css para simular botones al hacer el hover.<br>Esto que lees está
+			contenido en una gran &lt;section&gt; donde he introducido dos &lt;div&gt; para hablaros de HTML5 y de CSS3. Usaré el mismo esquema para colgar unos vídeos y alguna foto y cerraré tal vez con un &lt;footer&gt;.<br>Los social icons del &lt;nav&gt; son
+			imágenes vectoriales.</p>
+	</div>
+	<div id="main_drch">
+		<h2>Juego con CSS3</h2>
+		<p class="main_text">Cada elemento que he maquetado en HTML5 es modificado de acuerdo a los patrones de diseño editando su estilo. Yo suelo hacer un archivo con extensión .css que enlazo en el &lt;head&gt; del HTML por medio de la etiqueta <br>&lt;link rel="stylesheet"
+			type="text/css" href="estilos.css"&gt;<br>Es muy importante también enlazar fuentes externas. Yo las cojo de la web de Google y quedan muy bien.<br>Esto que lees forma parte de una &lt;div&gt; que tiene su correspondiente estilo por ID para alinearlas
+			como yo quiera. El texto está editado por un estilo de clase y el título es un &lt;h2&gt; también estilizado.<br>No se me ocurre nada más que decir. Suelo editar el archivo .css a la par que el HTML5 usando la herramienta Sublime Text con un layout
+			de 2 columnas.</p>
+	</div>
+</section>
+
+<div id="marco">
+	<div class="vertical">
+		<img class="horizontal" src="images/img01.jpg" alt="">
+		<img class="horizontal" src="images/img02.jpg" alt="">
+		<!-- VALIDACION FEEDS -->
+		<div style="position: relative; float: center; bottom:0px; margin-bottom: 0px;  margin-top:20px;">
+			<a href="http://validator.w3.org/feed/check.cgi?url=">
+	    				<img src="images/valid-rss.png" alt="[Validar RSS]" title="Validar la sindicación RSS 2.0" />
+	 				</a>
+			<a href="http://validator.w3.org/feed/check.cgi?url=">
+	    				<img src="images/valid-atom.png" alt="[Validar Atom]" title="Validar la sindicación ATOM 1.0" />
+	 				</a>
+		</div>
+	</div>
+
+	<div class="vertical">
+		<iframe width="700" height="395" src="http://www.youtube.com/embed/F8c5Tk1RrYs">
+			</iframe>
+	</div>
+</div>
+
+</body>
+
+</html>

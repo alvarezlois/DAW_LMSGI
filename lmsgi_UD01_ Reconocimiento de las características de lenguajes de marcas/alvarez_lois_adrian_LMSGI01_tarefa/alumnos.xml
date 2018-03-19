@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Alumnos>
+
+<!-- alvarez_lois_adrian_LMSGI01_Tarefa03 -->
+
+ <curso ciclo_formativo="DAM" modulo="Lenguajes de Marcas y Sistemas de Gestión">
+	
+	<!-- INICIO INFO DO MODULO -->
+ 	<modulo horas_semana="4">
+		
+ 		<data_inicio dia="15" mes="set" ano="2010"></data_inicio>
+ 		<data_final dia="30" mes="xuñ" ano="2011"></data_final>
+
+		<!-- INICIO DATOS DOS ALUMNOS -->
+		<alumnos>
+			
+			<!-- INICIO ALUMNO 01 -->
+	 		<alumnoficha>
+
+				<alumno nome="Ana" apelido1="Fernandez" apelido2="Gutierrez"/>
+
+		 		<nif>16965696L</nif>
+
+		 		<telefono>789654321</telefono>
+
+		 		<email>ana.fdezgtrrez@hotmail.com</email>
+
+		 		<direccion tipo="Rúa" nome="El percebe" numero="13" cidade="Santander" codigo_postal="39302"/>
+
+		 		<falta_de_asistencia>sen datos</falta_de_asistencia>
+
+		 		<notas>sen datos</notas>
+
+			</alumnoficha>
+
+			<!-- INICIO ALUMNO_02 -->
+	 		<alumnoficha>
+
+	 			<alumno nome="Pepito" apelido1="Grillo" apelido2=""/>
+
+	 			<nif>98765432H</nif>
+
+	 			<telefono>656566555</telefono>
+
+	 			<email>yhyh@yahoo.com</email>
+
+	 			<direccion tipo="Avenida" nombre="El pez" numero="5" ciudad="Suances" codigo_postal="39401"/>
+
+	 			<falta_de_asistencia>No tiene ninguna</falta_de_asistencia>
+
+	 			<notas>APTO</notas>
+
+	 		</alumnoficha>
+
+		</alumnos>
+		<!-- FINAL DATOS DOS ALUMNOS -->
+
+		
+	</modulo>
+ 
+ </curso>

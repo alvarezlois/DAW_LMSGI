@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alvarez_lois_adrian_LMSGI03 - Sindicación RSS</title>
+    <atom:link href="http://anallo.neocities.org/lmsgi/tarea03/rss/aal_lmsgi03.rss" rel="self" type="application/rss+xml" />
+    <link>http://anallo.neocities.org/lmsgi/tarea03/rss/aal_lmsgi03.rss</link>
+    <description>Ejemplo de creación de canal RSS</description>
+    <language>es-ES</language>
+    <image>
+      <title>alvarez_lois_adrian_LMSGI03 - Sindicación RSS</title>
+      <url>http://anallo.neocities.org/lmsgi/tarea03/images/logo.png</url>
+      <link>http://anallo.neocities.org/lmsgi/tarea03/rss/aal_lmsgi03.rss</link>
+      <width>140</width>
+      <height>44</height>
+    </image>
+    <pubDate>Mon, 30 Jan 2017 12:30:00 GMT</pubDate>
+    <managingEditor>rx5000@outlook.com (Adrian Alvarez Lois)</managingEditor>
+    <item>
+      <title>Predicción meteorológica</title>
+      <pubDate>Mon, 30 Jan 2017 12:35:00 GMT</pubDate>
+      <guid>http://www.eltiempo24.es/O_Grove-ES0PV0022.html</guid>
+      <description>
+          &lt;img src="http://anallo.neocities.org/lmsgi/tarea03/images/tiempo.png" alt="logo de www.eltiempo24.es" title="La predicción del tiempo para O Grove (PO)" width="50px" height="20px" border="1px solid #ff0000" /&gt; &lt;b&gt;El tiempo 24&lt;/b&gt; - Descubre qué tiempo tendremos en la localidad gallega de O Grove para los próximos días... &lt;br /&gt;&lt;hr /&gt;
+      </description>
+    </item>
+    <item>
+      <title>Mis recetas de cocina</title>
+      <pubDate>Mon, 30 Jan 2017 12:40:00 GMT</pubDate>
+      <guid>http://anallo.neocities.org/lmsgi/tarea03/recetas.html</guid>
+      <description>
+        &lt;img src="http://anallo.neocities.org/lmsgi/tarea03/images/logo.png" alt="logo de mi web de recetas" title="Mis recetas de cocina" width="50px" height="20px" border="1px solid #ff0000" /&gt; &lt;b&gt; Adrian Alvarez Lois&lt;/b&gt; - Todas mis recetas de cocina &lt;br /&gt;&lt;hr /&gt;
+      </description>
+    </item>
+  </channel>
+</rss>
